@@ -1,14 +1,14 @@
 # LetsGrowMore
 This repository contains the tasks that I did during my LetsGrowMore Data-Science internship.
 
-1) Iris Flowers Classification ML Project :
+1) Iris Flowers Classification ML Project:
 
 This particular ML project is usually referred to as the “Hello World” of Machine Learning. The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
 
 Watch Tutorial from here https://youtu.be/CBCfOTePVPo  
 Datasetlink: http://archive.ics.uci.edu/ml/datasets/Iris 
 
-2) Stock Market Prediction And Forecasting Using Stacked LSTM
+2) Stock Market Prediction And Forecasting Using Stacked LSTM:
 
 Datasetlinks: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
@@ -20,7 +20,7 @@ Watch Tutorial from here https://youtu.be/CBCfOTePVPo
 
 Datasetlinks: https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/01
 
-4) Exploratory Data Analysis on Dataset - Terrorism 
+4) Exploratory Data Analysis on Dataset - Terrorism:
 
 As a security/defense analyst, try to find out the hot zone of terrorism.
 You can choose any of the tool of your choice  
@@ -29,3 +29,19 @@ You can choose any of the tool of your choice
 Watch Tutorial from here https://youtu.be/CBCfOTePVPo
 
 Dataset: https://bit.ly/2TK5Xn5
+
+5) Prediction using Decision Tree  Algorithm:
+
+Create the Decision Tree classifier and visualize it graphically. 
+The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.  
+
+Watch Tutorial from here https://youtu.be/CBCfOTePVPo
+
+Dataset : https://bit.ly/3kXTdox
+
+6) Develop A Neural Network That Can Read Handwriting:
+
+Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners. Dataset can be seen on MNIST or can find here. 
+
+Watch Tutorial from here https://youtu.be/CBCfOTePVPo
+
